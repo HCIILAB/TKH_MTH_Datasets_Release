@@ -52,3 +52,7 @@ Please consider to cite our paper when you use our datasets:
 ```
 
 For any quetions about these datasets please contact the authors by sending email to eehlyang@mail.scut.edu.cn and eelwjin@scut.edu.cn.
+
+## Acknowledgement
+
+The authors sincerely thank Beijing Longquan Monastery for organizing volunteers to help building the datasets. This research is supported in part by the National Key Research and Development Program  of China (No.0 2016YFB1001405), NSFC (Grant No.: 61472144, 61673182, 61771199), GD-NSF (no.2017A030312006), GDSTP (Grant No.: 2015B010101004, 2017A030312006) , GZSTP (No. 201607010227).
